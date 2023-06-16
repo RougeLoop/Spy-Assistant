@@ -2,6 +2,8 @@
 # Spy-Assistant
 A template for python Virtual-Assistant.
 # Screenshot 
+![Screenshot1](Screenshot_2023-06-16-21-14-15-878_com.termux.jpg)
+
 ![Hidden option](Screenshot_2023-06-16-21-08-00-109_com.termux.jpg)
 
 # How to Install 
