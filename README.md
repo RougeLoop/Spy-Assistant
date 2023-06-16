@@ -7,7 +7,7 @@ pkg install git.
 ```
 
 ```bash
-git clone https://github.com/RougeLoop/Spy-Assistant/
+git clone https://github.com/RougeLoop/Spy-Assistant
 ```
 
 ```bash
