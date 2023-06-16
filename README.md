@@ -3,9 +3,25 @@
 A template for python Virtual-Assistant
 # How to Install 
 ```bash
-pkg install git
-git clone 
+pkg install git.
+```
 
+```bash
+git clone https://github.com/RougeLoop/Spy-Assistant/
+```
 
+```bash
+pkg install python
+```
 
+```bash
+cd Spy_Virtual-Assistant
+```
+```bash
+python install.py
+```
+# Conclusion
+You are free to edit the python
 
+# Thanks to
+@x0 for the font
