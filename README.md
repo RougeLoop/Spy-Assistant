@@ -20,7 +20,7 @@ pkg install python
 ```
 
 ```bash
-cd Spy_Virtual-Assistant
+cd Spy-Assistant
 ```
 ```bash
 python install.py
