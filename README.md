@@ -20,6 +20,9 @@ cd Spy_Virtual-Assistant
 ```bash
 python install.py
 ```
+```bash
+python s.py
+```
 # Conclusion
 You are free to edit the python
 
