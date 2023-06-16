@@ -3,7 +3,7 @@
 A template for python Virtual-Assistant
 # How to Install 
 ```bash
-pkg install git.
+pkg install git
 ```
 
 ```bash
