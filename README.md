@@ -29,7 +29,7 @@ python install.py
 python s.py
 ```
 # Conclusion
-You are free to edit the python
+You are free to edit the python code
 
 # Thanks to
 @x0 for the font
